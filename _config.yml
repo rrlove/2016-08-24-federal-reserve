@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: rrlove/2016-08-24-federal-reserve
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -30,8 +30,8 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/rrlove/2016-08-24-federal-reserve"
+workshop_site: "https://rrlove.github.io/2016-08-24-federal-reserve/"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
