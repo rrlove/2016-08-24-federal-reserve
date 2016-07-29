@@ -26,6 +26,7 @@ repository: <USERNAME>/<PROJECT>
 amy_site: "https://amy.software-carpentry.org/workshops"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
+swc_githubio: "http://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
